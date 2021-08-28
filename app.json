@@ -12,15 +12,17 @@
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
       "required": true
+      "value": "1984900702:AAFjzz7dbnfvaOGDmf74YxGyQvaS0TyPEOA"
     },
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
       "required": true
+      "value": "NinomaeBot"
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "Ninomae Ina'is"
     },
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
@@ -35,11 +37,12 @@
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
       "required": true
+      "value": "xxignll"
     },
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
+      "value": "NBEGUO-REQMDU-NEPXDI-HSJDXM-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
@@ -54,14 +57,17 @@
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
       "required": true
+      "value": "7477737"
     },
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
+      "value": "acd557fbb2b3cd292377540ab44af82c"
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
+      "value": "1801778148 1786695498"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
